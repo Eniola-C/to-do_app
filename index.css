@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #0D0714;
+}
+div{
+text-align: center;
+margin-top: 6rem;
+}
+input[type="text"]{
+    background-color: #0D0714;
+    color: #3E1671;
+}
+#input{
+    padding-left: 1rem;
+    border-radius: 1rem;
+    width: 30vw;
+    height: 6.3vh;
+    border: 1px solid #9E78CF;
+}
+button{
+    height: 6vh;
+    width: 3vw;
+    border-radius: 0.5rem;
+    border: 0;
+    background-color: #9E78CF;
+    font-size: 1.3rem;
+}
+button:hover{
+    background-color: #3E1671;
+}
